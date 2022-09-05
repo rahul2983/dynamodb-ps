@@ -9,7 +9,7 @@
   "author": "Rahul Verma",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.320.0",
+    "aws-sdk": ">=2.814.0",
     "pretty-print": "^2.0.0"
   }
 }
